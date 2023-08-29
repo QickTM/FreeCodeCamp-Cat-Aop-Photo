@@ -1,2 +1,2 @@
 # FreeCodeCamp Lessons and Projects
-Part of leaning Website Design using html
+Part of learning Website Design using html
